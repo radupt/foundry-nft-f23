@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+broadcast/
+appunti.txt
+metadata.txt
+note.txt
